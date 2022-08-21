@@ -214,7 +214,6 @@
 | Interest in findings on the ability of Azure or a Multi-Cloud Solution to Host all their tools. | Yes | With Oracle, Informatica and Alteryx, there is a possibility of Multi-Cloud. |
 | Primary Requirement - Hadoop Cluster to Azure. | Yes | HDInsight - Hadoop Cluster will be the Primary Azure Service to be Evaluated During POC. This is also mentioned in the __PROPOSED GUIDELINES FOR MIGRATION.__ |
 | What is the Hadoop Equivalent Azure Service? | Yes | HDInsight (Cluster Type = Hadoop) |
-| How to Migrate Data? | Yes | --------- |
-| Possibility to Operate in Hybrid Infrastructure? | Yes | Considering the Exceptions Called out. |
+| Possibility to Operate in Hybrid Infrastructure? | Yes | Considering the Pre-Requisites. |
 | Develop a Phase Plan. 1st Phase - Migrate Hadoop Cluster to Azure, 2nd Phase - Migrate Rest Spoke Applications. | Yes | Addressed in __PROPOSED GUIDELINES FOR MIGRATION.__ |
 | Data Ops Team is Linux and Open-Source Oriented. | Yes | All Chosen Platform is Linux. |
