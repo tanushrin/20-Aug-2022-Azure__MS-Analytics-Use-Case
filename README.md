@@ -159,6 +159,7 @@
 | __Azure Key Vault__ | To Store Credentials. | __PaaS__ |
 | __Log Analytics__ | To Store and Query Logs, Monitoring and Incident Management. | __PaaS__ |
 | __Storage Account__ | To Backup Data + Store and Archive Logs | __PaaS__ |
+| __Virtual Network, Subnet, DDos, Peering, Network Security Group(NSG), Route Table, Global DNS and Private DNS__ | Setting Up Network Infrastructure | __PaaS__ |
 | __HDInsight__ | Hadoop Cluster (__LINUX__). | __PaaS__ |
 | __Oracle__ | Oracle Database (If IaaS, then __LINUX__ VMs).| __IaaS__ or __Multicloud: OCI and Azure__ |
 | __Azure SQL Managed Instance__ | Managed SQL. | __PaaS__ |
@@ -184,15 +185,6 @@
 | --------- |
 | Customer should have Robust Network Infrastructure - Azure __HUB AND SPOKE__. Building Hub and Spoke is __OUT OF SCOPE.__ | 
 | Customer should have Resilient Bandwidth connecting Azure and In-House Datacentre. Setting up this connectivity is __OUT OF SCOPE.__ |
-
-
-| __SECURITY AND VULNERABILITY MANAGEMENT OF AZURE SQL MANAGED INSTANCE AND POSTGRESQL:-__ | 
-| --------- |
-| Setting up Private Endpoint. | 
-| Configure Required Firewall Rules. | 
-| Setting up Azure Active Directory Admin (It can be an AAD User or AAD Group). |
-| Configuring Required Role Based Access Control(RBAC). |
-| Setting up Audit and Vulnerability Assessment and populating the Report in Storage Account with Email Notification.
 
 
 | __PROPOSED APPROACH:-__ |
