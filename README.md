@@ -187,6 +187,15 @@
 | Customer should have Resilient Bandwidth connecting Azure and In-House Datacentre. Setting up this connectivity is __OUT OF SCOPE.__ |
 
 
+| __SECURITY AND VULNERABILITY MANAGEMENT OF AZURE SQL MANAGED INSTANCE AND POSTGRESQL:-__ | 
+| --------- |
+| Setting up Private Endpoint. | 
+| Configure Required Firewall Rules. | 
+| Setting up Azure Active Directory Admin (It can be an AAD User or AAD Group). |
+| Configuring Required Role Based Access Control(RBAC). |
+| Setting up Audit and Vulnerability Assessment and Populating the Report in Storage Account With Email Notification.
+
+
 | __PROPOSED APPROACH:-__ |
 | --------- |
 | POC - Functional Test |
